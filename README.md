@@ -30,3 +30,4 @@ Utilize uma ferramenta UML de sua preferência para criar o diagrama das classes
 Opcionalmente, caso você esteja cheio(a) de confiança, você pode implementar as classes Java representadas em seu diagrama UML.
 Submeta seu repositório GitHub de acordo com as orientações da plataforma DIO. Por exemplo:
 https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
+
