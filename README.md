@@ -31,3 +31,4 @@ Opcionalmente, caso você esteja cheio(a) de confiança, você pode implementar 
 Submeta seu repositório GitHub de acordo com as orientações da plataforma DIO. Por exemplo:
 https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 
+![Diagrama UML Iphone-2024-05-21-144037](https://github.com/BeaSantAnna/Dio-DesafioPOO/assets/142538360/f4d2af1f-6020-4716-9b37-78e3be6a402d)
